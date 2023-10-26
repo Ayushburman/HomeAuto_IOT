@@ -179,7 +179,8 @@ Process Control: Ensuring the safe operation of industrial processes by monitori
 
 ![image](https://github.com/Ayushburman/HomeAuto_IOT/assets/72551504/6ea82849-6df8-4aea-ae7f-9580b96ee444)
 
-
+# Assignment 1
+### what are enablers- "enablers" typically refer to the various technologies, components, and infrastructure that facilitate the development, deployment, and operation of IoT systems and solutions. These enablers are essential for IoT to function effectively.
 
 
 
