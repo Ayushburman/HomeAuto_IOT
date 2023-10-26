@@ -163,5 +163,23 @@ Process Control: Ensuring the safe operation of industrial processes by monitori
 ![image](https://github.com/Ayushburman/HomeAuto_IOT/assets/72551504/544d7033-747c-4132-b762-42c4f196ad48)
 
 
+----
+## Sensorial Deviation - Sensorial deviations in IoT (Internet of Things) refer to variations or anomalies in the data collected by sensors deployed within IoT systems
+### Causes of Sensorial Deviations:
+
+### Environmental Factors: Changes in environmental conditions, such as temperature, humidity, and lighting, can affect the performance of sensors.
+### Wear and Tear: Over time, sensors can degrade or suffer physical damage, leading to deviations in their readings.
+### Calibration Drift: Sensors often require periodic calibration to maintain accuracy. Calibration can drift over time, leading to deviations.
+### Interference: Interference from electromagnetic sources or nearby sensors can introduce errors in sensor data.
+### Software Bugs: Malfunctions or errors in sensor firmware or the software processing the sensor data can lead to deviations.
+### Malicious Activity: In some cases, sensor data may be tampered with or manipulated intentionally by malicious actors, leading to deceptive readings.
+
+# Hysteresis error,
+### Hysteresis error, often referred to as hysteresis, is a type of measurement or control error that occurs in systems, sensors, or devices when their output does not precisely follow the input due to a lag or delay, and the error depends on the history of the input values.
+
+![image](https://github.com/Ayushburman/HomeAuto_IOT/assets/72551504/6ea82849-6df8-4aea-ae7f-9580b96ee444)
+
+
+
 
 
