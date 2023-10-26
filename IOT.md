@@ -16,5 +16,21 @@ temperature compensation in e
 They are used in sectors such as manufacturing, HVAC (heating, ventilation, and air conditioning), scientific research, and food processing.
 ![image](https://github.com/Ayushburman/HomeAuto_IOT/assets/72551504/77db2820-be30-4078-93dc-f99c5a7577e9)
 
+# LDR-light dependent resistor
+### LDR stands for "Light-Dependent Resistor," and it is a type of passive electronic component that exhibits a change in electrical resistance in response to the intensity of light falling on it. 
+### Applications: LDRs are widely used in various applications, including light-sensitive switches, streetlights, camera exposure control, light meters, and many other devices that need to respond to changes in ambient light levels.
+![image](https://github.com/Ayushburman/HomeAuto_IOT/assets/72551504/41ace030-9e36-4e3f-8fd0-1f4ef0abf96c)
+
+
+-----
+# Photo Diode
+### A photodiode is a semiconductor device that converts light into an electrical current. It is designed to detect and respond to light or other forms of electromagnetic radiation. 
+### Application- Photodiodes are used in a wide range of applications, including optical communication systems (fiber optics), light meters, ambient light sensors in electronic devices, barcode scanners, laser range finders, and many other applications that require light detection.
+
+![image](https://github.com/Ayushburman/HomeAuto_IOT/assets/72551504/d0369807-d9e3-4530-b80c-891b49af8db1)
+
+
+-----
+
 
 
